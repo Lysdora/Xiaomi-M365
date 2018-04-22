@@ -1,0 +1,188 @@
+
+/*
+################
+      General CSS 
+################
+*/
+
+body {
+    /*font-family: 'Roboto', sans-serif;*/
+    font-family: 'Open Sans', sans-serif;
+    color: #6e6e6e;
+}
+
+img {
+    max-width: 100%;
+}
+
+
+
+.p-6 {
+    padding: 4rem!important;
+}
+
+p {
+    line-height: 1.8em;
+}
+
+
+.nav-link {
+    color: #000;
+    text-transform: uppercase;
+}
+
+@media (min-width: 576px){
+    .navbar-expand-sm .navbar-nav .nav-link {
+        padding-right: .8rem;
+        padding-left: .8rem;
+    }
+}
+
+
+.xiaomi_btn {
+    background-color: #f35224 !important;
+    border-color: white;
+    border: 1px;
+    border-radius: 5px;
+}
+
+/*
+################
+      01.net
+################
+*/
+
+
+.xiaomi_test {
+    background-color: #2b53c1;
+    color: #fff;
+}
+
+/*
+################
+      Description
+################
+*/
+
+
+.description {
+
+}
+
+
+/*
+################
+      Specifications
+################
+*/
+
+.specifications {
+    background-color: #f3f5f7;
+}
+
+.list-group-item:hover {
+    background-color: #2b53c1;
+    cursor: pointer;
+    color: #fff;
+}
+
+/*
+################
+      Garantie
+################
+*/
+.garantie {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#e12f26+0,fd6722+100 */
+background: #e12f26; /* Old browsers */
+background: -moz-linear-gradient(top,  #e12f26 0%, #fd6722 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #e12f26 0%,#fd6722 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #e12f26 0%,#fd6722 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e12f26', endColorstr='#fd6722',GradientType=0 ); /* IE6-9 */
+
+color: #fff;
+
+}
+
+
+.works-step div {
+    color: #fff;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    height: 55px;
+    width: 55px;
+    text-align: center;
+    padding: 5px;
+    font-size: 150%;
+    margin-right: 15px;
+}
+
+.para-garantie {
+    font-size: 0.8em;
+    text-align: justify;
+    line-height: 1.5em;
+}
+
+/*
+################
+      changer habitudes
+################
+*/
+
+.margin-garantie {
+    margin-top: 5rem;
+}
+
+.habitude p {
+    margin-top: 5rem;;
+}
+
+.h4-change_habitude {
+    line-height: 1.6 !important;
+}
+
+.h6-change_habitude {
+    color: #1e92ff;
+    font-weight: bold;
+    font-size: 0.7em;
+}
+
+.fa-check-circle{
+    color: #1e92ff;
+    margin-right: 0.6em;
+    font-size: 1.5rem;
+}
+
+.list_xiaomi {
+    line-height: 3em;
+}
+
+.list_xiaomi span {
+    font-size: 0.8em;
+}
+
+/*
+################
+      Nos Produits
+################
+*/
+
+.glisse-urbaine_produits {
+background-color: #f3f5f7;
+}
+.para-produit {
+    font-size: 0.7em;
+    margin-top: 2em;
+    margin-bottom: 6em;
+}
+
+.card-xiaomi {
+    background-color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+
+
+
+
+
+
